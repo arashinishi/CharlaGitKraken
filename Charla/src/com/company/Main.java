@@ -12,5 +12,8 @@ public class Main {
     public void setHola(String hola) {
 
     }
-}
+
+    public void printHola(String hola){
+        System.out.println(hola);
+    }
 }

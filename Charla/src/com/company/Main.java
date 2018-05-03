@@ -6,7 +6,7 @@ public class Main {
         String hola;
 
     public String getHola() {
-        return null;
+        return hola;
     }
 
     public void setHola(String hola) {
